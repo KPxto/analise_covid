@@ -39,4 +39,4 @@ Uma das principais conclusões é que o risco de uma segunda onde é real, com n
 * Numpy      - algebra linear e base da bilbioteca Pandas
 * Seaborn    - gráficos para visualização de dados
 * Matplotlib - gráficos para visualização de dados e base da lib Seaborn
-* Folium     - para trabalharmos com mapas
+* Folium     - para trabalhos com mapas
