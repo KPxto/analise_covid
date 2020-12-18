@@ -1,5 +1,5 @@
 # Análise do COVID na Bahia
-## >> <span style="color:blue"> Favor abrir notebook no colab para interação completa com os mapas </span>
+![#f03c15](Favor abrir notebook no colab para interação completa com os mapas)
 
 Este notebook analisa os dados da COVID-19 disponibilizados pelo portal Brasil.io através deste [link](https://brasil.io/dataset/covid19/caso/).
 
