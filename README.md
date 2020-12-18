@@ -8,7 +8,7 @@ Este estudo visa analisar especificamente a situação do estado da Bahia e suas
 
 Dentro de um mesmo estado podem existir realidades bem distintas entre as subdivisões. Para um estado de grandes proporções como a Bahia pode ser mais interessante analisarmos cada região dessa para que o governo estadual possa alocar recursos onde mais se precisa, atuando efetivamente contra os efeitos da pandemia.
 
-O IBGE dividiu a Bahia em 32 regiões intermediárias e imediatas e nosso estudo vai se basear fazendo um comparativo entre as mesmas. Foi feito um mapa interativo onde é possível acompanhar a evolução da COVID na Bahia desde o início até se disseminar por todo o estado. Acesse este [link](kpxto.github.io/mapa-covid) para visualizar.
+O IBGE dividiu a Bahia em 32 regiões intermediárias e imediatas e nosso estudo vai se basear fazendo um comparativo entre as mesmas. Foi feito um mapa interativo onde é possível acompanhar a evolução da COVID na Bahia desde o início até se disseminar por todo o estado. Acesse este [link](https://kpxto.github.io/mapa-covid/) para visualizar.
 
 No entanto, antes de dar um zoom em cada subdivisão da Bahia, vamos contextulizar a situação nacional fazendo os seguintes comparativos:
 
