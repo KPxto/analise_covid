@@ -8,7 +8,7 @@ Este estudo visa analisar especificamente a situação do estado da Bahia e suas
 
 Dentro de um mesmo estado podem existir realidades bem distintas entre as subdivisões. Para um estado de grandes proporções como a Bahia pode ser mais interessante analisarmos cada região dessa para que o governo estadual possa alocar recursos onde mais se precisa, atuando efetivamente contra os efeitos da pandemia.
 
-O IBGE dividiu a Bahia em 32 regiões intermediárias e imediatas e nosso estudo vai se basear fazendo um comparativo entre as mesmas.
+O IBGE dividiu a Bahia em 32 regiões intermediárias e imediatas e nosso estudo vai se basear fazendo um comparativo entre as mesmas. Foi feito um mapa interativo onde é possível acompanhar a evolução da COVID na Bahia desde o início até se disseminar por todo o estado. Acesse este [link](kpxto.github.io/mapa-covid) para visualizar.
 
 No entanto, antes de dar um zoom em cada subdivisão da Bahia, vamos contextulizar a situação nacional fazendo os seguintes comparativos:
 
@@ -22,3 +22,17 @@ Os indicadores comparados serão:
 A divisão por 100 mil habitantes facilita um comparativo mais justo respeitando as devidas proporcionalidades.
 
 Ou seja, faremos um zoom de forma gradual começando no cenário nacional até chegar nas regiões intermediárias e imediatas da Bahia.
+
+## Segunda onda?
+
+Uma das principais conclusões é que o risco de uma segunda onde é real, com número de casos confirmados voltando para os mesmos níveis de pico da pandemia, conforme pode ser notado na imagem abaixo. A imagem também mostra que época do ano, como inverno, não é fator primordial para o agravamento da crise já que houve uma subida muito forte de novos casos na primeira quinzena de Dezembro, época de calor e aproximação do verão. 
+
+![covid](covid_bahia.png)
+
+## Bibliotecas utilizadas
+
+* Pandas     - analise de dados
+* Numpy      - algebra linear e base da bilbioteca Pandas
+* Seaborn    - gráficos para visualização de dados
+* Matplotlib - gráficos para visualização de dados e base da lib Seaborn
+* Folium     - para trabalharmos com mapas
