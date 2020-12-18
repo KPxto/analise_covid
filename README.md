@@ -1,6 +1,6 @@
 # Análise do COVID na Bahia
 
-Este notebook analisa os dados da COVID-19 disponibilizados pelo portal Brasil.io através deste link.
+Este notebook analisa os dados da COVID-19 disponibilizados pelo portal Brasil.io através deste [link](https://brasil.io/dataset/covid19/caso/).
 
 Os dados são apresentados diariamente pelas secretarias estaduais e municipais de saúde e coletados/compilados pela equipe de voluntarios do Brasil.io. Aqui foram analisados os dados desde o começo da pandemia até a primeira quinzena de Dezembro.
 
