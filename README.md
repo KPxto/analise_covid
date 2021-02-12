@@ -37,7 +37,9 @@ Uma das principais conclusões é que o risco de uma segunda onde é real, com n
 
 ## Análise atualizada
 
-![covid](covid_bahia.png)
+Foi feita uma nova análise a partir de dados coletados de 15 de Março de 2020 até 10 de Fevereiro de 2021. Após gráfico gerado por esta nova análise, foi identificado um novo recorde de casos confirmados no final de Janeiro de 2021. Com isso, confirma-se a suspeita de segunda onda da pandemia especulada no primeiro estudo. Veja figura abaixo.
+
+![covid](nova_analise.png)
 
 
 ## Bibliotecas utilizadas
