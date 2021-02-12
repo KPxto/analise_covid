@@ -35,6 +35,11 @@ Uma das principais conclusões é que o risco de uma segunda onde é real, com n
 
 ![covid](covid_bahia.png)
 
+## Análise atualizada
+
+![covid](covid_bahia.png)
+
+
 ## Bibliotecas utilizadas
 
 * Pandas     - analise de dados
